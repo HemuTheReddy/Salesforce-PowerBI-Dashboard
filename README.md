@@ -52,27 +52,25 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 
 ## Dashboard
 
-*(Add screenshots of your dashboard pages here. Below each one, add the short description and features as you planned.)*
+The dashboard is organized into three main pages, flowing from a high-level executive summary to a deep dive into revenue and, finally, profitability.
+
+### Executive Summary
+
+This page provides a top-level, consolidated view of the most critical KPIs across the entire business, allowing executives to understand the company's overall health at a single glance. It summarizes performance from pipeline growth to expense management.
+
+![Executive Summary Page](assets/ExecSum.png)
 
 ### SaaS Revenue Engine
-*(Screenshot of Page 1)*
 
-**Description:** This page analyzes the "top of the funnel," focusing on future pipeline (RPO) and its conversion into billings and high-quality subscription revenue.
+This page analyzes the "top of the funnel," focusing on the future revenue pipeline (RPO), its conversion into new billings (the 'Execution Engine'), and the quality of the resulting subscription revenue.
 
-**Features:**
-* KPI Cards: ...
-* Charts: ...
-* Slicers: ...
+![SaaS Revenue Engine Page](assets/SaasRev.png)
 
 ### Profitability and Expense
-*(Screenshot of Page 2)*
 
-**Description:** This page drills down into the "bottom line," analyzing operational efficiency, expense management, and overall profitability.
+This page drills down into the "bottom line," analyzing operational efficiency, expense management (S&M, R&D, G&A as a % of revenue), and overall profitability (Operating Income, Net Income, and Cash Flow).
 
-**Features:**
-* KPI Cards: ...
-* Charts: ...
-* Slicers: ...
+![Profitability and Expense Page](assets/ProfExp.png)
 
 [<p align="right">(Back to Top)</p>](#readme-top)
 
