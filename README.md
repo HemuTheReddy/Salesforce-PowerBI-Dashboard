@@ -28,9 +28,17 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 
 ---
 
-## Tech Stack
+## Tech-Stack
 
+| Category | Tools |
+| :--- | :--- |
+| **Data Collection** | `edgartools` (Python) |
+| **Data Processing** | `Pandas`, `Microsoft Excel` |
+| **Data Modeling & Analysis** | `DAX` |
+| **Data Visualization** | `PowerBI` |
+| **UI Design** | `Powerpoint` |
 
+[<p align="right">(Back to Top)</p>](#readme-top)
 
 ---
 
