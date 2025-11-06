@@ -4,8 +4,7 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-A Power BI dashboard project that analyzes Salesforce's financial performance, focusing on revenue pipeline, profitability, and expense efficiency using public SEC filing data.
-
+A Power BI dashboard project that analyzes Salesforce's financial performance, focusing on revenue pipeline, profitability, and expense efficiency using scraped SEC filing data from the EDGAR database, which is a public repository maintained by the U.S. Securities and Exchange Commission, with the edgartools library in python.
 ---
 
 ## Table of Contents
