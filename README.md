@@ -1,103 +1,107 @@
-Salesforce Financial Analysis Dashboard
+<a id="readme-top"></a>
 
-This README provides a comprehensive overview of the Salesforce Financial Analysis Dashboard project, detailing its structure, insights, and technical implementation.
+# Salesforce Financial Analysis Dashboard
 
-Table of Contents
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-Project Overview
+A Power BI dashboard project that analyzes Salesforce's financial performance, focusing on revenue pipeline, profitability, and expense efficiency using public SEC filing data.
 
-ER Diagram
+---
 
-Dashboard
+## Table of Contents
+- [Project Overview](#project-overview)
+- [ER Diagram](#er-diagram)
+- [Dashboard](#dashboard)
+- [Insights](#insights)
+- [Usage](#usage)
+- [Full Report](#full-report)
+- [Challenges](#challenges)
+- [Conclusion](#conclusion)
 
-Insights
+---
 
-Usage
+## Project Overview
 
-Full Report
+*(Provide a high-level summary of the project. What was the goal? What problem does it solve? What data sources were used?)*
 
-Challenges
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-Conclusion
+---
 
-Project Overview
+## ER Diagram
 
-(Provide a high-level summary of the project. What was the goal? What problem does it solve? What data sources were used?)
+*(Insert the image of your data model / ER diagram here. Briefly explain the relationships between your fact tables (Qdata, FYdata) and dimension tables (DimDate).)*
 
-<p align="right">(Back to Top)</p>
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-ER Diagram
+---
 
-(Insert the image of your data model / ER diagram here. Briefly explain the relationships between your fact tables (Qdata, FYdata) and dimension tables (DimDate).)
+## Dashboard
 
-<p align="right">(Back to Top)</p>
+*(Add screenshots of your dashboard pages here. Below each one, add the short description and features as you planned.)*
 
-Dashboard
+### SaaS Revenue Engine
+*(Screenshot of Page 1)*
 
-(Add screenshots of your dashboard pages here. Below each one, add the short description and features as you planned.)
+**Description:** This page analyzes the "top of the funnel," focusing on future pipeline (RPO) and its conversion into billings and high-quality subscription revenue.
 
-SaaS Revenue Engine
+**Features:**
+* KPI Cards: ...
+* Charts: ...
+* Slicers: ...
 
-(Screenshot of Page 1)
+### Profitability and Expense
+*(Screenshot of Page 2)*
 
-Description: This page analyzes the "top of the funnel," focusing on future pipeline (RPO) and its conversion into billings and high-quality subscription revenue.
+**Description:** This page drills down into the "bottom line," analyzing operational efficiency, expense management, and overall profitability.
 
-Features:
+**Features:**
+* KPI Cards: ...
+* Charts: ...
+* Slicers: ...
 
-KPI Cards: ...
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-Charts: ...
+---
 
-Slicers: ...
+## Insights
 
-Profitability and Expense
+*(List the key insights you discovered from the dashboard. What are the main takeaways from the story you're telling?)*
 
-(Screenshot of Page 2)
+* **Insight 1:** ...
+* **Insight 2:** ...
+* **Insight 3:** ...
 
-Description: This page drills down into the "bottom line," analyzing operational efficiency, expense management, and overall profitability.
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-Features:
+---
 
-KPI Cards: ...
+## Usage
 
-Charts: ...
+*(Explain how a user should interact with this dashboard. Is there a recommended "flow"? How should they use the slicers?)*
 
-Slicers: ...
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-<p align="right">(Back to Top)</p>
+---
 
-Insights
+## Full Report
 
-(List the key insights you discovered from the dashboard. What are the main takeaways from the story you're telling?)
+*(If you have a separate, more detailed PDF or written report, you can link to it or embed it here. Otherwise, you can use this section to expand on your insights in more detail.)*
 
-Insight 1: ...
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-Insight 2: ...
+---
 
-Insight 3: ...
+## Challenges
 
-<p align="right">(Back to Top)</p>
+*(What were the main difficulties you faced during this project? This could be DAX-related (like time-intelligence), data modeling (ambiguous paths), or data cleaning.)*
 
-Usage
+[<p align="right">(Back to Top)</p>](#readme-top)
 
-(Explain how a user should interact with this dashboard. Is there a recommended "flow"? How should they use the slicers?)
+---
 
-<p align="right">(Back to Top)</p>
+## Conclusion
 
-Full Report
+*(Summarize the project. What was the final result? What are potential future improvements?)*
 
-(If you have a separate, more detailed PDF or written report, you can link to it or embed it here. Otherwise, you can use this section to expand on your insights in more detail.)
-
-<p align="right">(Back to Top)</p>
-
-Challenges
-
-(What were the main difficulties you faced during this project? This could be DAX-related (like time-intelligence), data modeling (ambiguous paths), or data cleaning.)
-
-<p align="right">(Back to Top)</p>
-
-Conclusion
-
-(Summarize the project. What was the final result? What are potential future improvements?)
-
-<p align="right">(Back to Top)</p>
+[<p align="right">(Back to Top)</p>](#readme-top)
