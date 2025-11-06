@@ -10,6 +10,7 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 
 ## Table of Contents
 - [Project Overview](#project-overview)
+- [Tech-Stack](#tech-stack)
 - [ER Diagram](#er-diagram)
 - [Dashboard](#dashboard)
 - [Insights](#insights)
@@ -25,6 +26,12 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 *(Provide a high-level summary of the project. What was the goal? What problem does it solve? What data sources were used?)*
 
 [<p align="right">(Back to Top)</p>](#readme-top)
+
+---
+
+## Tech Stack
+
+
 
 ---
 
