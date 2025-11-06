@@ -14,7 +14,6 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 - [Dashboard](#dashboard)
 - [Insights](#insights)
 - [Usage](#usage)
-- [Full Report](#full-report)
 - [Challenges](#challenges)
 - [Conclusion](#conclusion)
 
@@ -22,29 +21,11 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 
 ## Project Overview
 
-*(Provide a high-level summary of the project. What was the goal? What problem does it solve? What data sources were used?)*
+This project provides a comprehensive blueprint of Salesforce's financial performance, translating raw SEC filings from the EDGAR database into an actionable, analytical dashboard. The data was programmatically acquired using the `edgartools` Python library. All SEC filing forms (10-K and 10-Q) were given as a string from the library, so text extraction using Regex was the method I used to gather and consolidate all of the data I needed to build this dashboard.
 
-[<p align="right">(Back to Top)</p>](#readme-top)
+The dashboard follows a deliberate narrative path, structured across three key pages. It begins with a high-level **Executive Summary** for a consolidated business overview. From there, it guides the user through the **SaaS Revenue Engine**, connecting the "North Star" metric of future pipeline (RPO) to the "Execution Engine" of current billings. Finally, the story lands on **Profitability and Expense**, deconstructing how top-line revenue is converted into tangible operating profit, net income, and cash flow.
 
----
-
-## Tech-Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Data Collection** | `edgartools` (Python) |
-| **Data Processing** | `Pandas`, `Microsoft Excel` |
-| **Data Modeling & Analysis** | `DAX` |
-| **Data Visualization** | `PowerBI` |
-| **UI Design** | `Powerpoint` |
-
-[<p align="right">(Back to Top)</p>](#readme-top)
-
----
-
-## ER Diagram
-
-*(Insert the image of your data model / ER diagram here. Briefly explain the relationships between your fact tables (Qdata, FYdata) and dimension tables (DimDate).)*
+The dashboard features interactive features, allowing the user to filter each chart by a specific quarter, or by a specific year in the yearly view for a higher level overview of company's metrics.
 
 [<p align="right">(Back to Top)</p>](#readme-top)
 
@@ -76,6 +57,28 @@ This page drills down into the "bottom line," analyzing operational efficiency, 
 
 ---
 
+## Tech-Stack
+
+| Category | Tools |
+| :--- | :--- |
+| **Data Collection** | `edgartools` (Python) |
+| **Data Processing** | `Pandas`, `Microsoft Excel` |
+| **Data Modeling & Analysis** | `DAX` |
+| **Data Visualization** | `PowerBI` |
+| **UI Design** | `Powerpoint` |
+
+[<p align="right">(Back to Top)</p>](#readme-top)
+
+---
+
+## ER Diagram
+
+*(Insert the image of your data model / ER diagram here. Briefly explain the relationships between your fact tables (Qdata, FYdata) and dimension tables (DimDate).)*
+
+[<p align="right">(Back to Top)</p>](#readme-top)
+
+---
+
 ## Insights
 
 *(List the key insights you discovered from the dashboard. What are the main takeaways from the story you're telling?)*
@@ -96,13 +99,6 @@ This page drills down into the "bottom line," analyzing operational efficiency, 
 
 ---
 
-## Full Report
-
-*(If you have a separate, more detailed PDF or written report, you can link to it or embed it here. Otherwise, you can use this section to expand on your insights in more detail.)*
-
-[<p align="right">(Back to Top)</p>](#readme-top)
-
----
 
 ## Challenges
 
