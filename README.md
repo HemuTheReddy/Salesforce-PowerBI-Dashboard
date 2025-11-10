@@ -21,11 +21,13 @@ A Power BI dashboard project that analyzes Salesforce's financial performance, f
 
 ## Project Overview
 
-This project provides a comprehensive blueprint of Salesforce's financial performance, translating raw SEC filings from the EDGAR database into an actionable, analytical dashboard. The data was programmatically acquired using the `edgartools` Python library. All SEC filing forms (10-K and 10-Q) were given as a string from the library, so text extraction using Regex was the method I used to gather and consolidate all of the data I needed to build this dashboard.
+This project provides a comprehensive blueprint of Salesforce's financial performance, translating raw SEC filings from the EDGAR database into an actionable, analytical dashboard. The EDGAR database (Electronic Data Gathering, Analysis, and Retrieval) is the official public repository maintained by the U.S. Securities and Exchange Commission (SEC). All public companies are required to submit their financial reports and other filings to this system, making it the primary source for this data.
+
+The data was programmatically acquired using the `edgartools` Python library. All SEC filing forms (10-K and 10-Q) were given as a string from the library, so text extraction using Regex was the method I used to gather and consolidate all of the data I needed to build this dashboard.
 
 The dashboard follows a deliberate narrative path, structured across three key pages. It begins with a high-level **Executive Summary** for a consolidated business overview. From there, it guides the user through the **SaaS Revenue Engine**, connecting the "North Star" metric of future pipeline (RPO) to the "Execution Engine" of current billings. Finally, the story lands on **Profitability and Expense**, deconstructing how top-line revenue is converted into tangible operating profit, net income, and cash flow.
 
-The dashboard features interactive features, allowing the user to filter each chart by a specific quarter, or by a specific year in the yearly view for a higher level overview of company's metrics.
+The dashboard features interactive features, allowing the user to filter each chart by a specific quarter, or by a specific year in the "Yearly View" for a higher-level overview of the company's metrics.
 
 [<p align="right">(Back to Top)</p>](#readme-top)
 
@@ -113,9 +115,15 @@ This dashboard tells a cohesive financial story across its three pages. The anal
 
 ## Usage
 
-*(Explain how a user should interact with this dashboard. Is there a recommended "flow"? How should they use the slicers?)*
-
-[<p align="right">(Back to Top)</p>](#readme-top)
+1. Clone the repository:
+   ```sh
+   !git clone https://github.com/HemuTheReddy/Salesforce-PowerBI-Dashboard
+   ```
+2. Go to the Power BI file:
+  ```sh
+  cd PowerBI
+  ```
+4. Open PowerBI file using PowerBI desktop and explore dashboard.
 
 ---
 
