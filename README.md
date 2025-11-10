@@ -116,14 +116,14 @@ This dashboard tells a cohesive financial story across its three pages. The anal
 ## Usage
 
 1. Clone the repository:
-   ```sh
-   !git clone https://github.com/HemuTheReddy/Salesforce-PowerBI-Dashboard
-   ```
+```sh
+!git clone https://github.com/HemuTheReddy/Salesforce-PowerBI-Dashboard
+```
 2. Go to the Power BI file:
   ```sh
   cd PowerBI
   ```
-4. Open PowerBI file using PowerBI desktop and explore dashboard.
+3. Open PowerBI file using PowerBI desktop and explore dashboard.
 
 ---
 
