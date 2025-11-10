@@ -1,0 +1,37 @@
+Quarter,Category,Start Pillar,End Pillar,Invisible Base,Increase,Decrease,Quarter Sort
+Q2 24,Beginning Balance,15121,0,0,0,0,1
+Q2 24,New Billings C,0,0,15121,7719,0,2
+Q2 24,Revenue Recognized,0,0,14237,0,8603,3
+Q2 24,Ending Balance,0,14237,0,0,0,4
+Q3 24,Beginning Balance,14237,0,0,0,0,5
+Q3 24,New Billings C,0,0,14237,7047,0,6
+Q3 24,Revenue Recognized,0,0,12564,0,8720,7
+Q3 24,Ending Balance,0,12564,0,0,0,8
+Q4 24,Beginning Balance,12564,0,0,0,0,9
+Q4 24,New Billings C,0,0,12564,15726,0,10
+Q4 24,Revenue Recognized,0,0,19003,0,9287,11
+Q4 24,Ending Balance,0,19003,0,0,0,12
+Q1 25,Beginning Balance,19003,0,0,0,0,13
+Q1 25,New Billings C,0,0,19003,25194,0,14
+Q1 25,Revenue Recognized,0,0,35064,0,9133,15
+Q1 25,Ending Balance,0,35064,0,0,0,16
+Q2 25,Beginning Balance,35064,0,0,0,0,17
+Q2 25,New Billings C,0,0,35064,8486,0,18
+Q2 25,Revenue Recognized,0,0,34225,0,9325,19
+Q2 25,Ending Balance,0,34225,0,0,0,20
+Q3 25,Beginning Balance,34225,0,0,0,0,21
+Q3 25,New Billings C,0,0,34225,7694,0,22
+Q3 25,Revenue Recognized,0,0,32475,0,9444,23
+Q3 25,Ending Balance,0,32475,0,0,0,24
+Q4 25,Beginning Balance,32475,0,0,0,0,25
+Q4 25,New Billings C,0,0,32475,17264,0,26
+Q4 25,Revenue Recognized,0,0,39746,0,9993,27
+Q4 25,Ending Balance,0,39746,0,0,0,28
+Q1 26,Beginning Balance,39746,0,0,0,0,29
+Q1 26,New Billings C,0,0,39746,27628,0,30
+Q1 26,Revenue Recognized,0,0,57545,0,9829,31
+Q1 26,Ending Balance,0,57545,0,0,0,32
+Q2 26,Beginning Balance,57545,0,0,0,0,33
+Q2 26,New Billings C,0,0,57545,8992,0,34
+Q2 26,Revenue Recognized,0,0,56301,0,10236,35
+Q2 26,Ending Balance,0,56301,0,0,0,36
